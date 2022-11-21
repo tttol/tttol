@@ -20,7 +20,11 @@ I'm a web engineer in Japan.
 
 
 <!--
-参考：https://zenn.dev/chot/articles/3421ec6f622f82
+参考：
+https://zenn.dev/chot/articles/3421ec6f622f82
+https://skillicons.dev/
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/ryo-ma/github-profile-trophy
 
 Rank	Description
 SSS, SS, S	You are at a hard to reach rank. You can brag.
