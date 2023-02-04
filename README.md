@@ -3,6 +3,39 @@
 職種：バックエンドエンジニア  
 Twitter：https://twitter.com/tttol777
 
+# My skills
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)  
+- Java 8, 11, 17(勉強中)
+  - AmazonCorrettoをよく使う
+- SpringBoot 2.x ~ 3.x
+  - 2.x -> 3.xへの移行が大変
+- Struts 1.x（アイコンなかった）
+  - もうやりたくない
+---
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css)](https://skillicons.dev)  
+- JavaScript
+  - 職場でES6布教中
+- jQuery
+  - 脱却したい
+- HTML5
+- CSS3
+---
+## MiddleWare
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,gradle)](https://skillicons.dev)
+- MySQL 8.X ~
+  - 5.7も少々
+- PostgreSQL 9.X ~
+  - 触ってたの2018〜2020年頃なので、要知識アプデ・・・
+- AWS
+  - Solution Architect Associate所持(そろそろ期限切れ・・・)
+- Docker
+  - https://hub.docker.com/u/tttol
+- Gradle 7.X ~
+  - プラグイン自作してみたい
+
 # Job career
 ## 2社目(2022/01 ~ 現在)
 - やったこと
@@ -35,16 +68,6 @@ Twitter：https://twitter.com/tttol777
   - Google Workspace(当時はG Suiteと呼ばれていた)
   - Redmine
   - Backlog
-
-# Skills
-## Language
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)  
-## Framework
-[![My Skills](https://skillicons.dev/icons?i=spring,jquery)](https://skillicons.dev)  
-## DB
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-## Other
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,gradle,idea)](https://skillicons.dev)
 
 # GitHub status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
