@@ -4,7 +4,7 @@
 所属：某ユーザー系SIer  
 
 # Job career
-## 2社目：ユーザー系SIer(2022/01 ~ 現在)
+## 某ユーザー系SIer(2022/01 ~ 現在)
 - やったこと
   - Java(SpringBoot 2.X~3.X)を用いたWebアプリ開発
   - PTN社員5名チームのアプリリーダー
@@ -19,7 +19,7 @@
   - JIRA/Confluence
   - Box
 
-## 1社目：独立系SIer(2018/04 ~ 2021/12)
+## 某独立系SIer(2018/04 ~ 2021/12)
 - やったこと
   - Java(Struts 1)を用いたWebアプリ開発
   - Java(SpringBoot 2.X)を用いたWebアプリ開発
