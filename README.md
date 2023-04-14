@@ -1,7 +1,3 @@
-# About me
-名前：tttol  
-職種：バックエンドエンジニア  
-
 # My skills
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)  
