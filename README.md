@@ -11,11 +11,13 @@
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css)](https://skillicons.dev)  
 - JavaScript
-  - 職場でES6布教中
+  - ES6でVanilla JSゴリゴリ
+  - Helloworld程度のNext.js経験
 - jQuery
   - 脱却したい
 - HTML5
-- CSS3
+- CSS
+  - TailwindCSS
 ---
 ## MiddleWare
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
