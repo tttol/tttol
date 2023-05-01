@@ -1,3 +1,6 @@
+# Twitter
+@tttol777  
+https://twitter.com/tttol777
 # My skills
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)  
