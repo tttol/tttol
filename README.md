@@ -1,33 +1,11 @@
-# Twitter
+# X(Twitter)
 @tttol777  
 https://twitter.com/tttol777
-# My skills
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)  
-- Java 8, 11, 17
-- SpringBoot
-- Struts 1.x（アイコンなかった）
-  - もうやりたくない
----
-## Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,html,css)](https://skillicons.dev)  
-- JavaScript
-- jQuery
-  - 脱却したい
-- HTML5
-- CSS
----
-## MiddleWare
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,gradle)](https://skillicons.dev)
-- MySQL
-- PostgreSQL
-  - 触ってたの2018〜2020年頃なので、要知識アプデ・・・
-- AWS
-  - Solution Architect Associate(期限切れ)
-- Docker
-  - https://hub.docker.com/u/tttol
-- Gradle
+# 登壇
+### AWS Dev Day 2023 Tokyo
+- 2023/06/23
+- 「ChatGPTとCIパイプラインを利用してドキュメント作成作業を自動化した話」
+- [登壇資料](https://speakerdeck.com/tttol/chatgpttocihaihurainwoli-yong-sitetokiyumentozuo-cheng-zuo-ye-wozi-dong-hua-sitahua)、[アーカイブ配信](https://www.youtube.com/watch?v=B2TwG94zlss)
 # GitHub status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
