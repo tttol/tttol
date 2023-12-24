@@ -2,7 +2,7 @@
 @tttol777  
 https://twitter.com/tttol777
 # Qiita
-@tttol
+@tttol  
 https://qiita.com/tttol
 # 登壇
 ### AWS Dev Day 2023 Tokyo
