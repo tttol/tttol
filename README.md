@@ -1,14 +1,18 @@
 # X(Twitter)
-@tttol777  
-https://twitter.com/tttol777
-# Qiita
-@tttol  
-https://qiita.com/tttol
+[@tttol777](https://twitter.com/tttol777)
 # 登壇
-### AWS Dev Day 2023 Tokyo
-- 2023/06/23
+### [AWS Dev Day 2023 Tokyo](https://www.youtube.com/playlist?list=PLzWGOASvSx6FCFgHkfbHRZP2I4rZi8F4g)
 - 「ChatGPTとCIパイプラインを利用してドキュメント作成作業を自動化した話」
 - [登壇資料](https://speakerdeck.com/tttol/chatgpttocihaihurainwoli-yong-sitetokiyumentozuo-cheng-zuo-ye-wozi-dong-hua-sitahua)、[アーカイブ配信](https://www.youtube.com/watch?v=B2TwG94zlss)
+
+### [JAWS-UG東京 ランチタイムLT会 #7](https://jawsug.connpass.com/event/305567/)
+- 結婚式WEB招待状をAWSリソースでサクッと自作した話
+- [登壇資料](https://speakerdeck.com/tttol/jie-hun-shi-webzhao-dai-zhuang-woawsrisosutesakututozi-zuo-sitahua)、[アーカイブ配信](https://www.youtube.com/live/ArNrkwlw2MQ?si=7Pi3ineAQT49E9bq&t=1485)
+
+### [JAWS-UG初心者支部#58 初学者の新年決起集会](https://jawsug-bgnr.connpass.com/event/306307/)
+- 「個人開発はAmplifyでホスティングしよう」
+- [登壇資料](https://speakerdeck.com/tttol/ge-ren-kai-fa-haamplifytehosuteinkusiyou)
+
 # GitHub status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
