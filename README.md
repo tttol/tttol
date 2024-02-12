@@ -18,9 +18,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tttol&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tttol&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <!--
 参考：
 https://zenn.dev/chot/articles/3421ec6f622f82
