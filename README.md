@@ -3,7 +3,9 @@ Go to https://tttol.github.io/tttol/ !!
 ## GitHub status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tttol&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 参考：
