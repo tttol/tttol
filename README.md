@@ -1,5 +1,3 @@
-## About me
-Go to https://tttol.github.io/tttol/ !!
 ## GitHub status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
