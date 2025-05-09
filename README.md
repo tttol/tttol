@@ -1,6 +1,6 @@
 ## About me
 Hi all developers! I'm a software engineer in Japan.  
-For more info, visit to https://tttol.link/ (This is my porfolio site)
+For more info, visit to https://about-tttol.link/ (This is my porfolio site)
 
 ## GitHub status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
