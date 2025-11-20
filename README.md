@@ -26,23 +26,6 @@ Hi all developers! I'm a software engineer in Japan.
 For more info, visit to https://about-tttol.link/ (This is my porfolio site)
 
 ## GitHub status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttol&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tttol&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-参考：
-https://zenn.dev/chot/articles/3421ec6f622f82
-https://skillicons.dev/
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/ryo-ma/github-profile-trophy
-
-Rank	Description
-SSS, SS, S	You are at a hard to reach rank. You can brag.
-AAA, AA, A	You will reach this rank if you do your best. Let's aim here first.
-B, C	You are currently making good progress. Let's aim a bit higher.
-UNKNOWN	You have not taken action yet. Let's act first.
-SECRET	This rank is very rare. The trophy will not be displayed until certain conditions are met.
--->
+[![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tttol&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top lang](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tttol&theme=tokyonight&exclude=html,css)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tttol&theme=tokyonight&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
