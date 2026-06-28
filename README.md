@@ -22,8 +22,8 @@
 </p>
 
 ## About me
-Hi all developers! I'm a software engineer in Japan.  
-For more info, visit to https://about-tttol.link/ (This is my porfolio site)
+Hi all developers! I'm a software engineer based in Japan.  
+For more info, visit to https://about-tttol.link/
 
 ## GitHub status
 [![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tttol&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
