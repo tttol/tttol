@@ -28,4 +28,3 @@ For more info, visit to https://about-tttol.link/
 ## GitHub status
 [![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tttol&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tttol&theme=tokyonight&exclude=html,css)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tttol&theme=tokyonight&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
