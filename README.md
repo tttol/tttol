@@ -16,9 +16,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/tttol777/contributions.svg" />
   </a>
 </p>
-
-## About me
 See also: https://about-tttol.link/
 
-## GitHub status
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tttol&theme=tokyonight&exclude=html,css)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
