@@ -12,18 +12,13 @@
       src="https://img.shields.io/twitter/follow/tttol?style=flat&logo=x"
     />
   </a>
-
   <a href="http://qiita.com/tttol777">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tttol777/contributions.svg" />
-  </a>
-  <a href="http://qiita.com/tttol777">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tttol777/posts.svg" />
   </a>
 </p>
 
 ## About me
-Hi all developers! I'm a software engineer based in Japan.  
-For more info, visit to https://about-tttol.link/
+See also: https://about-tttol.link/
 
 ## GitHub status
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tttol&theme=tokyonight&exclude=html,css)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
